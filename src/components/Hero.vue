@@ -10,7 +10,8 @@ export default {
 }
 </script>
 
-<style scope>
+<style scoped>
+
 main{
   height: 250px;
   width: 450px;
@@ -20,4 +21,5 @@ main{
   background-color: seagreen;
   font-size: 25px;
 }
+
 </style>
