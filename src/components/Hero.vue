@@ -1,6 +1,6 @@
 <template>
   <main>
-    Questo sarebbe un jumbotron
+    <span>Questo sarebbe un jumbotron</span>
   </main>
 </template>
 
